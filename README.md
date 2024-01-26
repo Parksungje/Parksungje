@@ -7,8 +7,5 @@
 환영합니다!<br>
 안녕하세요 안양서중학교에서 2024년도 경기게임마이스터고등학교에 입학한 박성제라고 합니다
 <br>잘 부탁드리겠습니다!! ( _ _ )
-## Contact
-  <a href="https://www.instagram.com/kwonbi_">
-        <img src="https://img.shields.io/badge/
-        Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
-    </a>
+
+<img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=Instagram&logoColor=white">
